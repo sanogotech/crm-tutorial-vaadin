@@ -6,6 +6,9 @@ This repository contains the source code for the [Java Web App development tutor
 
 [![Open in online IDE ](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/vaadin-learning-center/crm-tutorial) 
 
+## Performance Web Testing Tool
+- https://www.smartmeter.io/
+
 ## Branch per chapter
 You can find the completed source for each chapter in separate branches. 
 The main branch will be updated to contain the finished, application once all chapters have been published. 
