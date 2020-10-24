@@ -8,6 +8,9 @@ This repository contains the source code for the [Java Web App development tutor
 
 ## Performance Web Testing Tool
 - https://www.smartmeter.io/
+- https://www.blazemeter.com/
+- https://jmeter.apache.org/
+- https://connect.ed-diamond.com/GNU-Linux-Magazine/GLMF-153/Testez-vos-applications-web-avec-JMeter
 
 ## Branch per chapter
 You can find the completed source for each chapter in separate branches. 
