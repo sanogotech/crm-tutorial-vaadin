@@ -1,7 +1,8 @@
 package com.vaadin.tutorial.crm.ui.views.login;
 
 import com.vaadin.flow.component.html.H1;
-import com.vaadin.flow.component.html.H3;
+import com.vaadin.flow.component.html.H4;
+import com.vaadin.flow.component.Html;
 import com.vaadin.flow.component.login.LoginForm;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.router.BeforeEnterEvent;
@@ -26,7 +27,7 @@ public class LoginView extends VerticalLayout implements BeforeEnterObserver {
 
         add(
             new H1("Vaadin CRM"),
-            login,new H3("Log in with user: user and password: password.")
+            login, new Html("<p>Log in with user: <b> user</b> and password: <b>password</b> </p>")
         );
     }
 
