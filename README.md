@@ -2,6 +2,8 @@
 
 This repository contains the source code for the [Java Web App development tutorial series](https://bit.ly/2W6c8CO).
 
+* https://vaadin.com/start#demos
+
 *Live demo:* https://crm.demo.vaadin.com
 
 mvn clean package -Pproduction
