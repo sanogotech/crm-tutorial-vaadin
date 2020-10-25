@@ -4,6 +4,8 @@ This repository contains the source code for the [Java Web App development tutor
 
 *Live demo:* https://crm.demo.vaadin.com
 
+mvn clean package -Pproduction
+
 [![Open in online IDE ](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/vaadin-learning-center/crm-tutorial) 
 
 ## Performance Web Testing Tool
