@@ -12,6 +12,9 @@ This repository contains the source code for the [Java Web App development tutor
 - https://jmeter.apache.org/
 - https://connect.ed-diamond.com/GNU-Linux-Magazine/GLMF-153/Testez-vos-applications-web-avec-JMeter
 
+## Offline Mode PWA
+- https://vaadin.com/docs/flow/pwa/tutorial-pwa-offline.html
+
 ## Branch per chapter
 You can find the completed source for each chapter in separate branches. 
 The main branch will be updated to contain the finished, application once all chapters have been published. 
